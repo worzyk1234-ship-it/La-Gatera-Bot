@@ -1,0 +1,38 @@
+{
+  "1548721309968769144": {
+    "326450757429886977": [
+      {
+        "id": 1,
+        "user_id": 326450757429886977,
+        "moderator_id": 1399377972707725454,
+        "reason": "Faltar el respeto a un staff",
+        "created_at": "2026-09-16T22:26:25.697367+00:00"
+      },
+      {
+        "id": 2,
+        "user_id": 326450757429886977,
+        "moderator_id": 1399377972707725454,
+        "reason": "aura",
+        "created_at": "2026-09-16T22:29:49.328943+00:00"
+      }
+    ],
+    "714791038027431997": [
+      {
+        "id": 1,
+        "user_id": 714791038027431997,
+        "moderator_id": 1399377972707725454,
+        "reason": "dar cringe con sus arigatos y hacer sangrar los oidos y la audicion de un owner.",
+        "created_at": "2026-09-18T00:15:47.093999+00:00"
+      }
+    ],
+    "906896327055654942": [
+      {
+        "id": 1,
+        "user_id": 906896327055654942,
+        "moderator_id": 1399377972707725454,
+        "reason": "lol",
+        "created_at": "2026-09-21T22:59:18.040194+00:00"
+      }
+    ]
+  }
+}

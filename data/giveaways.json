@@ -1,0 +1,81 @@
+{
+  "0CDE11": {
+    "id": "0CDE11",
+    "guild_id": 1548721309968769144,
+    "channel_id": 1548721312002744401,
+    "message_id": 1549399454644305932,
+    "host_id": 1399377972707725454,
+    "prize": "Nitro",
+    "winner_count": 1,
+    "ends_at": "2026-09-15T13:40:16.169895+00:00",
+    "status": "ended",
+    "participants": [
+      1399377972707725454
+    ],
+    "winners": [
+      1399377972707725454
+    ],
+    "claims": [],
+    "claim_deadline": "2026-09-16T13:40:16.194090+00:00"
+  },
+  "FD02EC": {
+    "id": "FD02EC",
+    "guild_id": 1548721309968769144,
+    "channel_id": 1548721311310938163,
+    "message_id": 1549401971252011082,
+    "host_id": 1399377972707725454,
+    "prize": "Mi poia",
+    "winner_count": 1,
+    "ends_at": "2026-09-15T12:51:16.326616+00:00",
+    "status": "ended",
+    "participants": [
+      1399377972707725454,
+      326450757429886977
+    ],
+    "winners": [
+      1399377972707725454
+    ],
+    "requirements": "",
+    "claim_hours": 1,
+    "claim_deadline": "2026-09-15T14:01:52.624291+00:00",
+    "claims": []
+  },
+  "C9EC95": {
+    "id": "C9EC95",
+    "guild_id": 1548721309968769144,
+    "channel_id": 1548721311310938163,
+    "message_id": 1549403309020815482,
+    "host_id": 1399377972707725454,
+    "prize": "tetas",
+    "winner_count": 1,
+    "ends_at": "2026-09-15T12:55:45.234219+00:00",
+    "status": "ended",
+    "participants": [
+      1399377972707725454
+    ],
+    "winners": [
+      1399377972707725454
+    ],
+    "requirements": "",
+    "claim_hours": 24,
+    "claim_deadline": "2026-09-16T12:55:45.240113+00:00",
+    "claims": []
+  },
+  "251B26": {
+    "id": "251B26",
+    "guild_id": 1548721309968769144,
+    "channel_id": 1548721312585875518,
+    "message_id": 1549498668107956268,
+    "host_id": 1399377972707725454,
+    "prize": "Nitro",
+    "winner_count": 1,
+    "ends_at": "2026-09-16T19:14:30.418329+00:00",
+    "status": "ended",
+    "participants": [],
+    "winners": [],
+    "requirements": "",
+    "claim_hours": 24,
+    "claim_deadline": null,
+    "claims": []
+  }
+}

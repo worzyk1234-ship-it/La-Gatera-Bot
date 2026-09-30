@@ -1,0 +1,8 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Bot de Discord con el comando send para administradores"
+requires-python = ">=3.11"
+dependencies = [
+    "discord-py>=2.7.1",
+]
